@@ -9,3 +9,9 @@ print (3*5)
 
 # Division
 print (10/2)
+
+# Create a variable savings
+savings = 100
+
+# Print out savings
+print(savings)
